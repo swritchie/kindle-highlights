@@ -1,6 +1,4 @@
 parameters = {
-    'url': 'https://read.amazon.com',
-    'username': '(Insert here)',
-    'password': '(Insert here)',
-    'book': '(Insert here)'
+    'url': 'https://read.amazon.com/notebook?ref_=kcr_notebook_lib',
+    'username': 'lsergent@asu.edu',
 }
